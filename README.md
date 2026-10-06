@@ -1,4 +1,4 @@
-# ⚡ AI & Agentic-AI Powered Cloud Smart &x Prepaid Metering Software Solution
+# ⚡ AI & Agentic-AI Powered Cloud Smart & Prepaid Metering Software Solution
 
 > **Intelligent Cloud-Native Smart Metering, Prepaid Energy Management &
 > Autonomous Utility Operations**
@@ -56,6 +56,7 @@ Kafka](https://img.shields.io/badge/Event%20Streaming-Kafka-231F20?style=for-the
 -   [Risk Assessment](#-risk-assessment)
 -   [Expected Business Value](#-expected-business-value)
 -   [Project Screenshots](#-project-screenshots)
+-   [Project Demo](#-project-demo)
 -   [Results & Validation](#-results--validation)
 -   [Future Scope](#-future-scope)
 -   [Project Takeaway](#-project-takeaway)
@@ -971,9 +972,7 @@ utility metering.
                      Operations
 ```
 
-This section intentionally describes the solution by ***completed
-capabilities rather than by a development timeline or future milestone
-plan***.
+
 
 # 📷 Project Screenshots
 
@@ -1032,8 +1031,8 @@ plan***.
 
 <p align="center">
 
-<a href="#">
-<img       src="images/project-demo.png"       alt="AI Agentic AI Smart Prepaid Metering Demo"       width="900"     />
+<a href="https://vimeo.com/1233269166">
+<img       src="images/AI-Powered_Smart_Prepaid_Metering.png"       alt="AI Agentic AI Smart Prepaid Metering Demo"       width="900"     />
 </a>
 
 
@@ -1136,23 +1135,22 @@ automated, and AI-assisted utility management**.
 
 # 👥 Project Team
 
-```{=html}
+
 <!-- Add project contributors here -->
-```
+
 
 ------------------------------------------------------------------------
 
 # 📄 License
 
-```{=html}
-<!-- Add license information here -->
-```
+<!--  
+
 This repository contains a project proposal and technical architecture.
 Before commercial deployment, all software components, AI models,
 third-party services, datasets, communication protocols, and cloud
 services should be reviewed for their respective licensing, regulatory,
 cybersecurity, privacy, and compliance requirements.
-
+-->
 ------------------------------------------------------------------------
 
 # ⚠️ Disclaimer
@@ -1172,15 +1170,15 @@ oversight for sensitive financial and utility operations.
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <p align="center">
-```
+
 **⚡ Smart Metering • 🤖 Agentic AI • 🧠 Machine Learning • ☁️
 Cloud-Native Utilities**
 
 **Built for Intelligent Energy Management & Autonomous Utility
 Operations**
 
-```{=html}
+
 </p>
-```
+
